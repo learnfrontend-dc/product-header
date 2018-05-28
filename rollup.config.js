@@ -1,9 +1,9 @@
 export default {
-    entry: 'dist/index.js',
-    dest: 'dist/bundles/phmf1.umd.js',
+    entry: 'dist-npm/index.js',
+    dest: 'dist-npm/bundles/mf-ph.umd.js',
     sourceMap: false,
     format: 'umd',
-    moduleName: 'ng.phmf1',
+    moduleName: 'ng.mf-ph',
     globals: {
       '@angular/core': 'ng.core',
       'rxjs/Observable': 'Rx',

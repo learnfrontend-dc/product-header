@@ -1,9 +1,9 @@
 {
-  "name": "product-header",
-  "author":"learnfrontend dc",
+  "name": "mf-ph",
+  "author":"lionel robbin",
   "version": "0.0.1",
    "license": "MIT",
-   "main": "bundles/phmf1.umd.js",
+   "main": "bundles/mf-ph.umd.js",
   "module": "index.js",
   "typings": "index.d.ts"
 }

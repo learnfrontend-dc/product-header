@@ -8,4 +8,4 @@ node node_modules/.bin/ngc -p ./tsconfig-build.json
 node node_modules/.bin/rollup -c
 
 rsync -a --exclude=*.js build/ dist
-cp src/package.json dist/package.json
+cp src/package.json dist-npm/package.json
